@@ -9,6 +9,12 @@ extention which show information regarding system resource usage to help develop
 
 Go to Extentions(ctrl+shift+X), search system-monitor here, install it.
 
+*Alternativly*
+
+Dowload vsix file from github repository [click here](https://github.com/shrikantpatwari/system-monitor)
+
+Go to Extentions(ctrl+shift+X), on top of explorer click on 3 dots (...) and click install from vsix. select vsix file to install.
+
 ## Things learned and implemented
 
 * Adding icon on activity bar
